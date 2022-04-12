@@ -2,6 +2,7 @@
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I am a Full Stack Developer from Israel
   </h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -11,8 +12,6 @@
   </div>
   
 </div>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>I am a Full Stack Developer from Israel</b>
 
 
 ---
